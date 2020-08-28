@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust and Rocket.rs**
 
-- 👨‍💻 All of my projects are available at [https://rahalkar.xyz](https://rahalkar.xyz)
+- 👨‍💻 All of my projects are available at [rahalkar.xyz](https://rahalkar.xyz)
 
 - 📝 I regulary write articles on [Linux, Operating Systems, Computer Internals and Computer Security](Linux, Operating Systems, Computer Internals and Computer Security)
 

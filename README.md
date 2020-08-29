@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [rahalkar.xyz](https://rahalkar.xyz)
 
-- 📝 I regulary write articles on [Linux, Operating Systems, Computer Internals and Computer Security](Linux, Operating Systems, Computer Internals and Computer Security)
+- 📝 I regulary write articles on **Linux, Operating Systems, Computer Internals and Computer Security**
 
 - 💬 Ask me about **Cybersecurity, Computer Internals and Operating Systems**
 

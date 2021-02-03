@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Cybersecurity, Computer Internals and Operating Systems**
 
-- 📫 How to reach me **chaitanya@rahalkar.xyz**
+- 📫 How to reach me **chaitanya@rahalkar.xyz** / **cr@gatech.edu** (Faster replies)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->

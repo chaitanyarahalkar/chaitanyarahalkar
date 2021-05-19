@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit (optional)
+  push: {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # See action.yml for all options
+      - uses: lowlighter/metrics@master
+        with:
+          # Your GitHub token
+          token: ${{ secrets.METRICS_PAT }}
+          # GITHUB_TOKEN is a special auto-generat. ed token restricted to current repository, which is used to push files in it
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, hack 
+          plugin_introduction: no
+          plugin_introduction_title: no # Hide section title
+          plugin_contributors_ignored: github-actions[bot]
+          extras_css: |
+            h2.field { color: #00c8ff !important; }
+            p.field { color: #d4d4d4 !important;}

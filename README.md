@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/chaitanyarahalkar?template=classic&introduction=1&languages=1&tweets=1&activity=1&stars=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&tweets.attachments=false&tweets.limit=2&tweets.user=chairahalkar&config.timezone=Asia%2FCalcutta)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaitanyarahalkar&theme=github_dark)
+
+![](https://komarev.com/ghpvc/?username=chaitanyarahalkar)
